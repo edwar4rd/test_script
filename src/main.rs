@@ -7,7 +7,7 @@ fn main() -> io::Result<()> {
         if buffer == "q\n" {
             break;
         }
-        println!("v0.0.1");
+        println!("v0.0.2");
     }
     Ok(())
 }
